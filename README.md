@@ -1,2 +1,2 @@
-# python-flask-web-app
+# Python Flask Web App
 Sample web app built using Python Flask framework
